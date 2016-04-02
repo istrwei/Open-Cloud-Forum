@@ -1,7 +1,7 @@
 {
-    "applicationName" : "Your APP NAME", 
-    "applicationId": "Your APPID",
-    "applicationKey": "Your APPKEY",
+    "applicationName" : "forum", 
+    "applicationId": "ue5L2mCaml4mmPvz0PyS5OJl-gzGzoHsz",
+    "applicationKey": "IqrCfNW0RXTB4i0eSWzN6NyN",
     "global": {
         "avVersion": "0.3.1"
     }
